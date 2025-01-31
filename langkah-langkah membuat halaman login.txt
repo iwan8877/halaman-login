@@ -1,4 +1,0 @@
-- Buat Input Data
-- Buat Tombol Button
-- Gunakan type submit pada tombol button
-- Buat menggunakan PHP
