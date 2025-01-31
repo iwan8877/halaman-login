@@ -1,3 +1,4 @@
 - Buat Input Data
 - Buat Tombol Button
+- Gunakan type text pada input data
 - Gunakan type submit pada tombol button
